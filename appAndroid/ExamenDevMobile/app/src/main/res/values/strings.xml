@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="cv_text">Voir les CVs</string>
+    <string name="energ_text">Energies</string>
+    <string name="info_text">Informatique</string>
+    <string name="sante_text">Santés</string>
+    <string name="vente_text">Ventes</string>
+    <string name="educt_text">Educations</string>
+    <string name="art_text">Art et Design</string>
+    <string name="nom_text">Offres d\'emploi par catégorie</string>
+</resources>

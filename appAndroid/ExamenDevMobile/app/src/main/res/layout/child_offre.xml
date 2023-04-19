@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginVertical="10dp"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_marginHorizontal="15sp"
+    >
+    <TextView
+        android:id="@+id/descriptId"
+        android:layout_marginTop="2sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:fontFamily="@font/poppins"
+        android:textStyle="italic"
+        android:text="description"/>
+
+    <Button
+        android:id="@+id/postulerBnt"
+        android:layout_width="120sp"
+        android:layout_height="60sp"
+        android:layout_marginBottom="5sp"
+        android:layout_marginHorizontal="220sp"
+        android:text="Postuler"
+        android:textSize="14sp"
+        android:fontFamily="@font/poppins"
+        android:background="@drawable/rond_button"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+</LinearLayout>
