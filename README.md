@@ -3,7 +3,7 @@ Application android de recherche d'emploie sur une plateforme d'offre, développ
 
 ##### L'application permet aux utilisateurs de consulter les offres disponibles sur la plateforme mais aussi d'y postuler.
 
-### L'interface du lanceur de l'application :
+### L'interface du lanceur de l'application : Goye Tchetchi Yan qui signifie recherche d'emploi en langue Zarma
 ![alt text](/launcher.png?raw=true)
 ### Menu principale de l'application:
 ![alt text](/homePage.png?raw=true)
